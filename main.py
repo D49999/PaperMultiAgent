@@ -27,5 +27,5 @@ def run_paper_pipeline(topic):
 
 if __name__ == "__main__":
     # 使用极具学术深度的真实课题进行压测展示
-    target_topic = "Improved HRNet (ACHRNet) for UAV-based Segmentation of Lychee Buds and Full-bloom Flowers with Yield Prediction Application"
+    target_topic = ""
     run_paper_pipeline(target_topic)
